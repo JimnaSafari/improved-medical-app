@@ -70,7 +70,7 @@ user_1,2024-01-01 00:00:00,72,98,36.7,16,moderate,120,80,0.1,4
 ---
 
 ## 📄 License
-MIT License (or specify your own)
+Improved by Samuel Karanja
 
 ---
 
